@@ -1,4 +1,4 @@
-Hate Speech Classification Project
+**Hate Speech Classification Project**
 
 **Overview**
 
